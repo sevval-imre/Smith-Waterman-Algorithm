@@ -1,0 +1,2 @@
+# Smith-Waterman-Algorithm
+Biyoinformatik
