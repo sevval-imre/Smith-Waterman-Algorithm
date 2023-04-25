@@ -1,0 +1,11 @@
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\bin\Debug\Biyoinformatik_2.exe.config
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\bin\Debug\Biyoinformatik_2.exe
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\bin\Debug\Biyoinformatik_2.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.Form1.resources
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.Properties.Resources.resources
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.csproj.GenerateResource.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.exe
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_2\Biyoinformatik_2\Biyoinformatik_2\obj\Debug\Biyoinformatik_2.pdb
